@@ -1,0 +1,5 @@
+2023-04-03 00:21:38.952227 - Initialized conversion of CBT450
+2023-04-03 00:21:38.978177 - Received CBT.V504.FILE450.PDS from FILE450.XMI 
+2023-04-03 00:21:38.980722 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE450.PDS, moved to PDS/$$$#DATE
+2023-04-03 00:21:38.981828 - Found @FILE450.txt (text/plain) in CBT.V504.FILE450.PDS, moved to PDS/@FILE450
+2023-04-03 00:21:38.982897 - Found FINDSTR.rexx (text/plain) in CBT.V504.FILE450.PDS, moved to PDS/FINDSTR
